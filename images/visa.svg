@@ -1,0 +1,28 @@
+<svg width="64.990967" height="48.407227" viewBox="0 0 64.991 48.4072" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_20_320_dd" x="0.000000" y="0.000000" width="64.990967" height="48.407227" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0.448214"/>
+			<feGaussianBlur stdDeviation="1.49405"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.71765 0 0 0 0 0.71765 0 0 0 0 0.71765 0 0 0 0.078 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4.48214"/>
+			<feGaussianBlur stdDeviation="2.9881"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.71765 0 0 0 0 0.71765 0 0 0 0 0.71765 0 0 0 0.078 0"/>
+			<feBlend mode="normal" in2="effect_dropShadow_1" result="effect_dropShadow_2"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_2" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_20_320_dd)">
+		<rect id="Badge" rx="8.067858" width="46.838390" height="30.254465" transform="translate(9.076301 4.594490)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<path id="Visa" d="M32.2104 14.8281L30.0363 24.9917L27.4071 24.9917L29.5817 14.8281L32.2104 14.8281ZM43.2721 21.3906L44.6564 17.5737L45.4529 21.3906L43.2721 21.3906ZM46.2056 24.9917L48.6375 24.9917L46.5154 14.8281L44.2706 14.8281C43.7662 14.8281 43.3407 15.1216 43.1512 15.5737L39.2068 24.9917L41.9678 24.9917L42.5159 23.4736L45.889 23.4736L46.2056 24.9917ZM39.3438 21.6733C39.355 18.9907 35.6342 18.8428 35.6599 17.6445C35.6676 17.2798 36.0154 16.8921 36.7748 16.793C37.1521 16.7437 38.1896 16.7061 39.3676 17.248L39.8289 15.0928C39.1962 14.8633 38.382 14.6421 37.3693 14.6421C34.7708 14.6421 32.9417 16.0239 32.9263 18.002C32.9098 19.4648 34.2319 20.2817 35.2281 20.7681C36.2524 21.2661 36.5966 21.5854 36.5922 22.0308C36.5853 22.7129 35.775 23.0137 35.019 23.0254C33.697 23.0464 32.9298 22.6689 32.3182 22.3838L31.8418 24.6108C32.4559 24.8926 33.5898 25.1377 34.7662 25.1504C37.5278 25.1504 39.3347 23.7861 39.3438 21.6733ZM28.4536 14.8281L24.1938 24.9917L21.4142 24.9917L19.3181 16.8804C19.1907 16.3809 19.0801 16.1982 18.6931 15.9873C18.0616 15.6445 17.0178 15.3228 16.0994 15.1235L16.1621 14.8281L20.6357 14.8281C21.2057 14.8281 21.7189 15.2075 21.8481 15.8643L22.9553 21.7456L25.6913 14.8281L28.4536 14.8281Z" fill="#1434CB" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Badge" rx="8.067858" width="46.838390" height="30.254465" transform="translate(9.076301 4.594490)" stroke="#D6DCE5" stroke-opacity="1.000000" stroke-width="0.224107"/>
+</svg>
